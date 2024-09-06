@@ -53,6 +53,7 @@
   --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
   --background-blur: 0px; /* app background blur [default: 0px] */
 
+  
   /* HOME BUTTON ICON */
   --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
